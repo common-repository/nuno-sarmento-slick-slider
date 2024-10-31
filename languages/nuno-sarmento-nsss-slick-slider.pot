@@ -1,0 +1,102 @@
+"Project-Id-Version: Slick Slider\n"
+"POT-Creation-Date: 2017-01-20 20:22+0000\n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_GB\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+msgid "Enable Auto Play"
+msgstr ""
+
+msgid "Display Direction Arrows"
+msgstr ""
+
+msgid "Display Pagination Dots"
+msgstr ""
+
+msgid "Enable Adaptive Height"
+msgstr ""
+
+msgid "Choose the options for your slider"
+msgstr ""
+
+msgid "Speed"
+msgstr ""
+
+msgid "How-to"
+msgstr ""
+
+msgid ""
+"First, create your slides in \"NS Slider\". Add Title, content and a "
+"featured image."
+msgstr ""
+
+msgid ""
+"Then add the slider shortcode <code>[slick_slider_ns]</code> on a page or a "
+"post."
+msgstr ""
+
+msgid ""
+"You can also call the function <code>&lt;?php nuno_sarmento_nsss_slider(); ?&gt;</code> in "
+"your theme templates."
+msgstr ""
+
+msgid "Slick options"
+msgstr ""
+
+msgid "Slider Effect"
+msgstr ""
+
+msgid "Slide"
+msgstr ""
+
+msgid "Fade"
+msgstr ""
+
+msgid "Auto Play and Adaptive Height"
+msgstr ""
+
+msgid "Transition Speed: "
+msgstr ""
+
+msgid "Navigation"
+msgstr ""
+
+msgid "Colors"
+msgstr ""
+
+msgid "Arrows color: "
+msgstr ""
+
+msgid "Dots color: "
+msgstr ""
+
+msgid "CSS customization"
+msgstr ""
+
+msgid ""
+"If you want to customize the output of the slider, here is the generated code:"
+msgstr ""
+
+msgid "Your can override the class you need in your own stylesheet:"
+msgstr " styles : "
+
+msgid "The slider container"
+msgstr ""
+
+msgid "The slider slides"
+msgstr ""
+
+msgid "The image container"
+msgstr ""
+
+msgid "The content container"
+msgstr ""
